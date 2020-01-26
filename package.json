@@ -1,0 +1,54 @@
+{
+  "name": "ethereum-dappstarterkit",
+  "version": "0.1.0",
+  "description": "Starter kit to develop Ethereum decentralized applications",
+  "main": "src/index.js",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.4.0",
+    "@testing-library/user-event": "^7.2.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-scripts": "3.3.0",
+    "web3": "^1.2.5-rc.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LouisHatte/Ethereum-dAppStarterKit.git"
+  },
+  "keywords": [
+    "Ethereum",
+    "starterKit"
+  ],
+  "author": "louishatte@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LouisHatte/Ethereum-dAppStarterKit/issues"
+  },
+  "homepage": "https://github.com/LouisHatte/Ethereum-dAppStarterKitd#readme"
+}
