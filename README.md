@@ -2,15 +2,18 @@
 
 ## Description
 
-**Ethereum dApp Starter Kit** project is a strater kit to help get started fast in dApp development on Ethereum.
+The **Ethereum dApp Starter Kit** helps you get started quickly with dApp development on Ethereum.
 
-You just need to clone it and install all npm dependencies like so :
+Clone and install all dependencies.
+
 ```sh
 git clone git@github.com:LouisHatte/Ethereum-dAppStarterKit.git
 cd Ethereum-dAppStarterKit/
-sudo npm install
+pnpm install
 ```
-Then you can run it :
+
+And run.
+
 ```sh
-sudo npm run start
+pnpm run dev
 ```
